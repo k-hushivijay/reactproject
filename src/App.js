@@ -7,7 +7,7 @@ export default function App(){
         <>
        <BrowserRouter>
        <Routes>
-        <Route path="/" Component={Route1}/>
+        <Route path="*" Component={Route1}/>
        </Routes>
        </BrowserRouter>
 

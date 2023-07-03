@@ -1,6 +1,8 @@
 import {Routes,Route} from "react-router-dom";
 import Happy from "../HomeScreen/Happy";
-import Register from "../HomeScreen/Register";
+import Login from "../HomeScreen/Login";
+import Home from "../HomeScreen/Home";
+
 
 
 export default function Route1(){
@@ -9,7 +11,8 @@ export default function Route1(){
     
     <Routes>
         <Route path="/" Component ={Happy}/>
-        <Route path="/register" Component={Register}/>
+        <Route path="/Login" Component={Login}/>
+        <Route path="/Home" Component={Home}/>
        
     </Routes>
     </>
