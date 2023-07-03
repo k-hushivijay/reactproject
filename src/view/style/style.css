@@ -256,6 +256,87 @@
     left: 830px;
     top: 30px;
 }
+.circle1{
+    width: 130px;
+    height: 130px;
+    border-radius: 80px 80px 80px 80px;
+    background-color: black;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}
+.circle2{
+    width: 130px;
+    height: 130px;
+    border-radius: 80px 80px 80px 80px;
+    background-color: black;
+    position: absolute;
+    left: 190px;
+    top: 30px;
+}
+.circle3{
+    width: 130px;
+    height: 130px;
+    border-radius: 80px 80px 80px 80px;
+    background-color: black;
+    position: absolute;
+    left: 350px;
+    top: 30px;
+}
+.circle4{
+    width: 130px;
+    height: 130px;
+    border-radius: 80px 80px 80px 80px;
+    background-color: black;
+    position: absolute;
+    left: 510px;
+    top: 30px;
+}
+.circle5{
+    width: 130px;
+    height: 130px;
+    border-radius: 80px 80px 80px 80px;
+    background-color: black;
+    position: absolute;
+    left: 670px;
+    top: 30px;
+}
+.circle6{
+    width: 130px;
+    height: 130px;
+    border-radius: 80px 80px 80px 80px;
+    background-color: black;
+    position: absolute;
+    left: 830px;
+    top: 30px;
+}
+.circle7{
+    width: 130px;
+    height: 130px;
+    border-radius: 80px 80px 80px 80px;
+    background-color: black;
+    position: absolute;
+    left: 1000px;
+    top: 30px;
+}
+.circle8{
+    width: 130px;
+    height: 130px;
+    border-radius: 80px 80px 80px 80px;
+    background-color: black;
+    position: absolute;
+    left: 1150px;
+    top: 30px;
+}
+.circle9{
+    width: 130px;
+    height: 130px;
+    border-radius: 80px 80px 80px 80px;
+    background-color: black;
+    position: absolute;
+    left: 830px;
+    top: 30px;
+}
 
 .image{
     width: 60px;
